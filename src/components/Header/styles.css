@@ -1,0 +1,17 @@
+
+.cabecalho{
+    width: 100vw;
+    height: 50px;
+    background-color: #525151;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cabecalho > h1{
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    color:white;
+
+}
